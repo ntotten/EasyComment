@@ -15,7 +15,8 @@ disquscdn.com/*
 .disqus-loader
 
 facebook.com/plugins/comments.php
+
 nytimes.com##.comments-button
 
 
-zdnet.com##section#comments
+zdnet.com##*#comments
