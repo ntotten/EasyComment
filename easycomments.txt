@@ -3,15 +3,15 @@
 ! Title: EasyComments
 ! Last modified: 05 Jun 2014
 ! Expires: 4 days (update frequency)
-! Homepage: https://ntotten.com/easycomments.txt
+! Homepage: https://github.com/ntotten/EasyComments
 ! Licence: APACHE 2.0
 !
 !
 !-----------------------Filters-----------------------!
 ! *** EasyComments:easycomments.txt ***
 
-disqus.com/embed/comments/
-disquscdn.com
+disqus.com/embed/comments/*
+disquscdn.com/*
 .disqus-loader
 
 facebook.com/plugins/comments.php
