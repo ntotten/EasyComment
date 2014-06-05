@@ -10,7 +10,10 @@
 !-----------------------Filters-----------------------!
 ! *** EasyComments:easycomments.txt ***
 
-http://disqus.com/embed/comments/
-https://www.facebook.com/plugins/comments.php
+disqus.com/embed/comments/
+disquscdn.com
+.disqus-loader
+
+facebook.com/plugins/comments.php
 nytimes.com##.comments-button
 zdnet.com##.commentWrapper
