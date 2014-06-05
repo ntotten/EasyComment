@@ -12,5 +12,5 @@
 
 http://disqus.com/embed/comments/
 https://www.facebook.com/plugins/comments.php
-www.nytimes.com##.comments-button
-www.zdnet.com##.commentWrapper
+nytimes.com##.comments-button
+zdnet.com##.commentWrapper
