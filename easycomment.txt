@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
 ! Version: 20140605
-! Title: EasyComments
+! Title: EasyComment
 ! Last modified: 05 Jun 2014
 ! Expires: 4 days (update frequency)
-! Homepage: https://github.com/ntotten/EasyComments
+! Homepage: https://github.com/ntotten/EasyComment
 ! Licence: APACHE 2.0
 !
 !
 !-----------------------Filters-----------------------!
-! *** EasyComments:easycomments.txt ***
+! *** EasyComments:easycomment.txt ***
 
 disqus.com/embed/comments/*
 disquscdn.com/*
