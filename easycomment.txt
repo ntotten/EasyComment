@@ -21,4 +21,4 @@ nytimes.com##.comments-button
 
 zdnet.com##*#comments
 
-##div.vf-comments
+cdn.viafoura.net/vf.js
