@@ -20,3 +20,5 @@ nytimes.com##.comments-button
 
 
 zdnet.com##*#comments
+
+.vf-comments
