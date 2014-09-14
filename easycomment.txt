@@ -13,8 +13,8 @@
 disqus.com/embed/comments/*
 disquscdn.com/*
 a.disquscdn.com/*
-.disqus-loader
-#disqus_thread
+##.disqus-loader
+###disqus_thread
 
 facebook.com/plugins/comments.php
 
@@ -24,3 +24,7 @@ nytimes.com##.comments-button
 zdnet.com##*#comments
 
 cdn.viafoura.net/vf.js
+
+thenextweb.com###comments-799321
+thenextweb.com##.comments.article-comments.article-more
+thenextweb.com##.comments.article-comments.article-more
