@@ -28,3 +28,4 @@ thenextweb.com###comments-*
 thenextweb.com##.comments.article-comments.article-more
 thenextweb.com##.comments.article-comments.article-more
 zdnet.com##*#comments
+www.geekwire.com##div#comments
