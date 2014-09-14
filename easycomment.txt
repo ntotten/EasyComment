@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20140605
+! Version: 20140913
 ! Title: EasyComment
-! Last modified: 05 Jun 2014
+! Last modified: 13 Sep 2014
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ntotten/EasyComment
 ! Licence: APACHE 2.0
@@ -10,24 +10,21 @@
 !-----------------------Filters-----------------------!
 ! *** EasyComments:easycomment.txt ***
 
+!------------ Disqus -_-------------------------------!
 disqus.com/embed/comments/*
 disquscdn.com/*
 a.disquscdn.com/*
-
 ##div.disqus-loader
 ##div#disqus_thread
 
 
-facebook.com/plugins/comments.php
-
-nytimes.com##.comments-button
-
-
-zdnet.com##*#comments
-
+!------------ Sites ----------------------------------!
 cdn.viafoura.net/vf.js
-
-thenextweb.com###comments-799321
+www.cnet.com##.showComments
+www.cnet.com##div.livefyreConversation
+facebook.com/plugins/comments.php
+nytimes.com##.comments-button
+thenextweb.com###comments-*
 thenextweb.com##.comments.article-comments.article-more
 thenextweb.com##.comments.article-comments.article-more
-
+zdnet.com##*#comments
