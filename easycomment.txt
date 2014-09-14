@@ -12,6 +12,7 @@
 
 disqus.com/embed/comments/*
 disquscdn.com/*
+a.disquscdn.com/*
 .disqus-loader
 
 facebook.com/plugins/comments.php
