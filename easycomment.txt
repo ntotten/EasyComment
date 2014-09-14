@@ -13,8 +13,9 @@
 disqus.com/embed/comments/*
 disquscdn.com/*
 a.disquscdn.com/*
-##.disqus-loader
-###disqus_thread
+
+##div.disqus-loader
+##div#disqus_thread
 
 
 facebook.com/plugins/comments.php
