@@ -29,3 +29,6 @@ thenextweb.com##.comments.article-comments.article-more
 thenextweb.com##.comments.article-comments.article-more
 zdnet.com##*#comments
 www.geekwire.com##div#comments
+washingtonpost.com##div#echo_container_pb_comments
+washingtonpost.com##div#pb-f-page-comments
+washingtonpost.com##div#pb-f-page-share-bar
